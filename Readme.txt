@@ -1,34 +1,42 @@
-##live preview: https://shashank1332003.github.io/html_exigo_project/
+# 🎨 Exigo - Free HTML5 Creative Portfolio Template  
 
-== Theme Name: Exigo - FREE HTML5 Creative Portfolio Template
+🌐 Live Preview: [View the Project](https://vijay-ky.github.io/html_exigo_project/)  
 
-== Copyright (c) 2016 BootstrapThemes.co
+## 📌 About Exigo  
+Exigo is a stylish and modern HTML5 portfolio template designed for creatives, designers, and agencies to showcase their work in a professional manner.  
 
-== http://BootstrapThemes.co
+## 🚀 Features  
+✅ Built with Bootstrap Framework 🏗️  
+✅ HTML5 & CSS3 🎨  
+✅ Fully Responsive & Mobile-Friendly 📱  
+✅ Smooth Animations & Transitions ✨  
+✅ SEO Optimized & Fast Loading ⚡  
+✅ Font Awesome Icons 🔠  
+✅ Cross-Browser Compatibility 🌐  
 
+## 🔗 Theme Details  
+- Theme Name: Exigo - Creative Portfolio  
+- Author: [BootstrapThemes.co](http://bootstrapthemes.co)  
+- PSD Created by: [Shravan Hotha](https://www.behance.net/gallery/37172261/Exigo-PSD-Freebie)  
 
-Html Created by: http://bootstrapthemes.co
-Psd Created by: --Shravan Hotha-- https://www.behance.net/gallery/37172261/Exigo-PSD-Freebie
+## 🛠️ Getting Started  
+1. Clone the Repository  
+   ```sh
+   git clone https://github.com/vijay-ky/html_exigo_project.git
+   ```
+2. Open `index.html` in your browser and start customizing!  
 
+## 📜 License & Usage Rights  
+✅ You can:  
+- Use it for personal & commercial projects.  
+- Modify it as per your requirements.  
+- Include it in websites, applications, or other saleable materials.  
 
-Rights: 
-You are permitted to use the resources for any number of personal and commercial projects.
-You may modify the resources according to your requirements and include them into works, 
-such as websites, applications or other materials intended for sale. No attribution or 
-link back to this site is required, however any credit will be much appreciated.
+🚫 You cannot:  
+- Redistribute, resell, lease, sublicense, or offer it as a standalone download.  
+- Directly link to the download file or hosted images on [BootstrapThemes.co](http://bootstrapthemes.co).  
 
+## 🌟 Credits & Acknowledgments  
+💡 Special thanks to BootstrapThemes.co for providing this amazing template.  
 
-Prohibitions:
-You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party ìas isî or as a separate attachment 
-from any of your work. If you wish to promote my resources on your site, you must link back 
-to the resource page where users can find the download and not directly to the download file.
-
-
-
-If you would like to share one of my resources, you can do so by making a link to the specific 
-resource on http://bootstrapthemes.co , you can if you wish insert the embed code for the product previews images to illustrate your link. 
-No HOTLINKING is allowed i.e. you cannot make a direct link to the download or/and the images hosted on http://bootstrapthemes.co
-
-Concerning blog posts, you are free to link to it from any website, 
-but you cannot however publish it as it is, without prior consent from http://bootstrapthemes.co
+🚀 Start building your creative portfolio with Exigo today!  
